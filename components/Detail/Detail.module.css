@@ -1,0 +1,11 @@
+.tarjeta {
+    width: 500px;
+    height: auto;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
